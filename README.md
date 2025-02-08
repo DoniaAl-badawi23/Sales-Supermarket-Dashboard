@@ -73,38 +73,58 @@ Business Request:
 
 ## Dashboard
 
+- <a href="https://github.com/DoniaAl-badawi23/Sales-Supermarket-Dashboard/commit/b80abf018aba3c28b87ef5d3d54b89885fe02029">View Dashboard</a>
 
-Final Conclusion:
-The dashboards provide a comprehensive overview of the business's strong performance, highlighting its ability to meet sales and budget targets. However, there are opportunities for improvement in product category diversification, geographic reach, and customer growth.
-
-Key Strengths:
-
-Achieving 22M in sales, surpassing the 21M budget. A solid customer base of 18K customers with strong contributions from top-performing customers. Geographic sales clusters in high-demand regions like North America, Europe, and Asia. Exceptional performance in the Clothing category, contributing over 95% of total sales.
-
-Key Challenges:
-
-Over-reliance on a single product category (Clothing) poses a risk. Limited sales contributions from underperforming regions (South America and Africa) and categories (Bikes and Accessories). Room to grow the customer base beyond the existing 18K.
-
-Future Outlook:
-
-By focusing on diversification, customer acquisition, and regional expansion, the business can sustain growth and build resilience. Leveraging seasonal peaks and customer loyalty programs can further enhance profitability.
 
 Sales Improvement Recommendations:
-1- Focus on Product Mix:
 
-Introduce promotions or bundle offers for underperforming categories like Bikes and Accessories to increase their contribution.
+1- Focus on Top-Performing Locations
 
-2- Customer Retention Programs:
+- Prioritize marketing efforts and promotions in Yangon, which accounts for the highest sales (34.24%).
 
-Offer loyalty rewards or personalized offers to top customers like Jordan Turner to ensure continued engagement.
+- Expand inventory in high-demand categories for this location.
+  
+- Offer location-specific promotions or loyalty programs to boost repeat purchases.
 
-3- Geographic Targeting:
+2- Enhance Gender-Based Engagement
 
-Invest in marketing campaigns in less saturated regions to expand the customer base globally.
+- Observation: Sales from female customers ($168K) exceed male customers ($155K).
+  
+- Recommendation: Develop marketing campaigns targeting female customers while identifying opportunities to engage more male customers.
+  
+- Create promotions around products preferred by male customers (e.g., sports and travel or electronics).
+  
+- Use personalized advertising or targeted discounts to appeal to different gender segments.
 
-4- Seasonal Promotions:
+3- Leverage Seasonal Trends
 
-Leverage peak months like May, August, and October to maximize sales through discounts or limited-time offers.
+- Observation: January shows the highest sales and income.
+  
+- Recommendation: Develop a strategy to maintain momentum beyond January.
 
-Presentation:
-View Presentation
+- Introduce post-holiday or seasonal promotions in February and March.
+  
+- Run campaigns to promote less-performing product categories in off-peak months.
+
+4- Optimize Payment Method Options
+
+- Observation: Cash is the most preferred payment method, followed by credit cards and e-wallets.
+  
+- Recommendation: Promote cashless payment methods to enhance convenience and improve transaction speed.
+
+- Offer discounts or cashback for e-wallet or credit card payments.
+  
+- Collaborate with payment providers for exclusive deals.
+
+5- Train Staff for Upselling and Cross-Selling
+
+- Equip sales teams with strategies to recommend complementary products, especially in high-demand categories.
+
+6- Invest in Data-Driven Marketing
+
+- Use customer behavior insights from the dashboard to create targeted campaigns.
+  
+- For example:
+1- Promotions based on popular products.
+  
+2- Targeting high-value customers with exclusive offers.
