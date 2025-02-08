@@ -14,7 +14,7 @@ Business Request:
 
 2- Payment Method Insights:
 
-Analyze sales based on payment methods (cash, e-wallet, and credit card) to identify customer payment preferences.
+- Analyze sales based on payment methods (cash, e-wallet, and credit card) to identify customer payment preferences.
 
 3- Product Category Analysis:
 
