@@ -30,11 +30,11 @@ Business Request:
 
 - Determine how sales vary by city (Mandalay, Naypyitaw, Yangon). 
 
-Dataset Used:
+## Dataset Used:
 
 - <a href="https://github.com/DoniaAl-badawi23/Sales-Supermarket-Dashboard/blob/main/Data%20Set.csv">Dataset</a>
 
-Business Requirements (KPIs):
+## Business Requirements (KPIs):
 
 1- Overall Metrices
  - Total Sales
@@ -60,18 +60,20 @@ Business Requirements (KPIs):
 
 7- Monthly Trends
 
-Dashboard Interaction:
-View Dashboard
+## Dashboard Interaction:
 
-Process:
-1- Collecting a Data from Different Sources (Excel & SQL).
-2- Cleaning and Preprocessing Data in SQL & Power Query Editor in PowerBI.
-3- Data Modeling For Data in Model View in PowerBI.
-4- Calculation Data by Using Measures and Calculated Columns by Using DAX Language in PowerBI.
-5- Wireframe Creation to Design Dashboard.
-6- Creation a Dashboards in PowerBI.
-Dashboard
-View Dashboard
+- <a href="https://github.com/DoniaAl-badawi23/Sales-Supermarket-Dashboard/blob/main/Supermarket%20Sales%20Dashboard.pbix">View Dashboard</a>
+
+## Process:
+1- Collecting a Data from Kaggle website.
+2- Cleaning and Preprocessing Data in Power Query Editor in PowerBI.
+3- Calculation Data by Using Measures and Calculated Columns by Using DAX Language in PowerBI.
+4- Wireframe Creation to Design Dashboard.
+5- Creation a Dashboard in PowerBI.
+
+## Dashboard
+
+
 Final Conclusion:
 The dashboards provide a comprehensive overview of the business's strong performance, highlighting its ability to meet sales and budget targets. However, there are opportunities for improvement in product category diversification, geographic reach, and customer growth.
 
