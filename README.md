@@ -31,7 +31,7 @@ Business Request:
 - Determine how sales vary by city (Mandalay, Naypyitaw, Yangon). 
 
 Dataset Used:
-Dataset
+https://github.com/DoniaAl-badawi23/Sales-Supermarket-Dashboard/blob/main/Data%20Set.csv
 
 Business Requirements (KPIs):
 Sales Overview Dashboard
