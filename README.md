@@ -31,55 +31,34 @@ Business Request:
 - Determine how sales vary by city (Mandalay, Naypyitaw, Yangon). 
 
 Dataset Used:
-https://github.com/DoniaAl-badawi23/Sales-Supermarket-Dashboard/blob/main/Data%20Set.csv
+
+- <a href="https://github.com/DoniaAl-badawi23/Sales-Supermarket-Dashboard/blob/main/Data%20Set.csv">Dataset</a>
 
 Business Requirements (KPIs):
-Sales Overview Dashboard
-1- Overall Metrics:
 
-Total Sales
-Total Budget
-Total Customers
-Total Products
-2- Sales by Product Category
+1- Overall Metrices
+ - Total Sales
+ - Total Income
+ - Total Cost of Goods Sold (COGS)
+ - Total Quantity Sold
 
-3- Top 10 Customers by Sales
+2- Sales by Branch
 
-4- Top 10 Products by Sales
+ - Branch level Sales Contributions
 
-5- Sales and Budget Trends by Month
+3- Sales by City
 
-6- Sales by Customer City
+ - Sales Distribution across Cities 
 
-Customer Details Dashboard
-1- Overall Metrics:
+4- Sales by Gender
 
-Total Customers
-Total Sales
-Total Budget
-Total Products
-2- Sales by Product Category
+5- Sales by Payment Method
 
-3- Sales by Customer City
+6- Product Category Performance
 
-4- Top 10 Customer by Sales
+ - Top Performing Product Categories (Sales and Quantity)
 
-5- Details Table about Customers
-
-Product Details Dashboard:
-1- Overall Metrics:
-
-Total Products
-Total Sales
-Total Budget
-Total Customers
-2- Sales and Budget Trends by Month
-
-3- Sales by Customer City
-
-4- Top 10 Product by Sales
-
-5- Details Table about products
+7- Monthly Trends
 
 Dashboard Interaction:
 View Dashboard
