@@ -5,6 +5,7 @@ I developed a comprehensive project in PowerBI, creating a dashboard and table t
 
 ## Project Objective:
 Business Request:
+
 1- Sales Performance Analysis:
 
 - The total sales, total income, total cost of goods sold (COGS), and total quantity sold for the period (Q1 2019).
