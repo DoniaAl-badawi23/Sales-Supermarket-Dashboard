@@ -66,9 +66,13 @@ Business Request:
 
 ## Process:
 1- Collecting a Data from Kaggle website.
+
 2- Cleaning and Preprocessing Data in Power Query Editor in PowerBI.
+
 3- Calculation Data by Using Measures and Calculated Columns by Using DAX Language in PowerBI.
+
 4- Wireframe Creation to Design Dashboard.
+
 5- Creation a Dashboard in PowerBI.
 
 ## Dashboard
@@ -76,7 +80,7 @@ Business Request:
 - <a href="https://github.com/DoniaAl-badawi23/Sales-Supermarket-Dashboard/commit/b80abf018aba3c28b87ef5d3d54b89885fe02029">View Dashboard</a>
 
 
-Sales Improvement Recommendations:
+## Sales Improvement Recommendations:
 
 1- Focus on Top-Performing Locations
 
@@ -125,6 +129,7 @@ Sales Improvement Recommendations:
 - Use customer behavior insights from the dashboard to create targeted campaigns.
   
 - For example:
-1- Promotions based on popular products.
   
-2- Targeting high-value customers with exclusive offers.
+   1- Promotions based on popular products.
+  
+   2- Targeting high-value customers with exclusive offers.
